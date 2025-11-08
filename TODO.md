@@ -1,0 +1,5 @@
+- Add search TextField above the grade list in main.dart ✓
+- Add String _searchQuery state variable ✓
+- Implement filtering logic in StreamBuilder to filter grades by studentName or subject ✓
+- Change to manual search with button instead of real-time filtering ✓
+- Test the search functionality ✓
